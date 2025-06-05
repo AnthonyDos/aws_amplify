@@ -1,0 +1,46 @@
+{
+  "anthony": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aws2025-anthony-f42c9-authRole",
+      "UnauthRoleArn": "arn:aws:iam::025198855865:role/amplify-aws2025-anthony-f42c9-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::025198855865:role/amplify-aws2025-anthony-f42c9-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-aws2025-anthony-f42c9-deployment",
+      "UnauthRoleName": "amplify-aws2025-anthony-f42c9-unauthRole",
+      "StackName": "amplify-aws2025-anthony-f42c9",
+      "StackId": "arn:aws:cloudformation:us-west-1:025198855865:stack/amplify-aws2025-anthony-f42c9/707d18c0-4124-11f0-a629-0668b23d9073",
+      "AmplifyAppId": "d1qy7q07080mhp"
+    },
+    "categories": {
+      "storage": {
+        "users": {},
+        "cryptoPrices": {},
+        "cryptoexports": {}
+      },
+      "function": {
+        "saveUser": {
+          "deploymentBucketName": "amplify-aws2025-anthony-f42c9-deployment",
+          "s3Key": "amplify-builds/saveUser-5139414166676a55354c-build.zip"
+        },
+        "getUser": {
+          "deploymentBucketName": "amplify-aws2025-anthony-f42c9-deployment",
+          "s3Key": "amplify-builds/getUser-75534b464c4251544931-build.zip"
+        },
+        "crypto": {
+          "deploymentBucketName": "amplify-aws2025-anthony-f42c9-deployment",
+          "s3Key": "amplify-builds/crypto-504968736a642f687952-build.zip"
+        },
+        "signeData": {
+          "deploymentBucketName": "amplify-aws2025-anthony-f42c9-deployment",
+          "s3Key": "amplify-builds/signeData-63656f34737a63586c6d-build.zip"
+        }
+      },
+      "api": {
+        "users": {}
+      },
+      "auth": {
+        "aws202579a445a2": {}
+      }
+    }
+  }
+}

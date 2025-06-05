@@ -1,0 +1,13 @@
+{
+  "resourceName": "cryptoexports",
+  "policyUUID": "cd3a9d14",
+  "bucketName": "crypto-export-anthony",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
