@@ -1,3 +1,3 @@
 # aws_amplify
 Projet aws amplify  IIM
-Attention : La fonction qui devait être nommé fetchCryptoPrices est nommé crypto dans mon projet.
+Attention : La fonction qui devait être nommée fetchCryptoPrices est nommée crypto dans mon projet.
